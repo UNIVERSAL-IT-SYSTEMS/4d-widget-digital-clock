@@ -1,4 +1,4 @@
-4d-widgt-digital-clock
+4d-widgit-digital-clock
 ======================
 
 SVG digital clock.
